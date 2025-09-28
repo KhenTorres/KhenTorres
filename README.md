@@ -14,8 +14,8 @@ Soy **Khender Torres Cabrera** — estudiante de Ingeniería en Sistemas en la *
 🫡 Me gusta el código, seguir instrucciones y proponer mejoras. Algún día me gustaría liderar proyectos. Siempre busco trabajar de forma ordenada.  
 
 🧠 Tengo conocimientos en:  
-- **Java** (principiante/intermedio)  
-- **C#** (principiante)  
+**Java** (principiante/intermedio)  
+**C#** (principiante)  
 
 📺 Actualmente trabajo como **Content Manager en Enlace TV**.  
 
